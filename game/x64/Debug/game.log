@@ -1,0 +1,21 @@
+﻿  menu.cpp
+c:\projects\visual studio\aedis\game\menu.cpp(45): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+c:\projects\visual studio\aedis\game\menu.cpp(70): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+c:\projects\visual studio\aedis\game\menu.cpp(71): warning C4244: =: преобразование "T" в "T", возможна потеря данных
+          with
+          [
+              T=int
+          ]
+          and
+          [
+              T=float
+          ]
+  game.vcxproj -> C:\projects\Visual Studio\Aedis\x64\Debug\game.exe
